@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+!mis_2016_exercise_2_maps_halos_kolyada_hafany.apk
 
 # Files for the Dalvik VM
 *.dex
@@ -13,6 +14,8 @@ bin/
 gen/
 
 # Gradle files
+*.iml
+/.idea
 .gradle/
 build/
 
